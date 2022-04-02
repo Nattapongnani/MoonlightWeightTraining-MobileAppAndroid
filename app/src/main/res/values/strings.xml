@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">MOONLIGHT</string>
+
+    <string-array name="sort_array">
+        <item>Last create</item>
+        <item>First create</item>
+        <item>A - Z</item>
+        <item>Z - A</item>
+    </string-array>
+
+    <string-array name="sort_array_2">
+        <item>Last Performed</item>
+        <item>First Performed</item>
+    </string-array>
+
+    <string-array name="chest">
+        <item>Incline barbell bench press</item>
+        <item>Flat barbell bench press</item>
+        <item>Decline barbell bench press</item>
+        <item>Incline dumbbell bench press</item>
+        <item>Decline dumbbell bench press</item>
+        <item>Dumbbell chest fly</item>
+    </string-array>
+    <string-array name="chest_des">
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Triceps Brachii Dynamic stabilizer: Biceps Brachii (Short Head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a bench inclined at 45 degrees. Spread your legs, bring your feet back, and place them firmly on the ground.</item>
+        <item>Exercise details Target muscle: Triceps Brachii Synergists: Sternal (Lower) Pectoralis Major, Clavicular (Upper) Pectoralis Major, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a flat bench, spread your legs, and plant your feet flat on the floor for stability. </item>
+        <item>Exercise details Target muscle: Sternal (lower) Pectoralis Major Synergists: Clavicular (upper) Pectoralis Major, Anterior Deltoid, Triceps Brachii Mechanics: Compound Force: Push Starting position Lock your feet under the leg brace of a declined bench and lie on your back. Using a grip that is a little wider than shoulder width, dismount the barbell from the rack. </item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+        <item>Exercise details Target muscle: Sternal (Lower) Pectoralis Major Synergists: Clavicular (Upper) Pectoralis Major, Triceps Brachii, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position With a dumbbell in each hand, sit on the end of a declined bench and rest the dumbbells on your knees.</item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+    </string-array>
+    <string-array name="chest_youtube">
+        <item>https://www.youtube.com/watch?v=DbFgADa2PL8</item>
+        <item>https://www.youtube.com/watch?v=rT7DgCr-3pg</item>
+        <item>https://www.youtube.com/watch?v=LfyQBUKR8SE</item>
+        <item>https://www.youtube.com/watch?v=hChjZQhX1Ls&amp;t=9s</item>
+        <item>https://www.youtube.com/watch?v=OQkxOqFCFWo</item>
+        <item>https://www.youtube.com/watch?v=eozdVDA78K0</item>
+    </string-array>
+
+    <string-array name="leg">
+        <item>Incline barbell bench press</item>
+        <item>Flat barbell bench press</item>
+        <item>Decline barbell bench press</item>
+        <item>Incline dumbbell bench press</item>
+        <item>Decline dumbbell bench press</item>
+        <item>Dumbbell chest fly</item>
+    </string-array>
+    <string-array name="leg_des">
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Triceps Brachii Dynamic stabilizer: Biceps Brachii (Short Head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a bench inclined at 45 degrees. Spread your legs, bring your feet back, and place them firmly on the ground.</item>
+        <item>Exercise details Target muscle: Triceps Brachii Synergists: Sternal (Lower) Pectoralis Major, Clavicular (Upper) Pectoralis Major, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a flat bench, spread your legs, and plant your feet flat on the floor for stability. </item>
+        <item>Exercise details Target muscle: Sternal (lower) Pectoralis Major Synergists: Clavicular (upper) Pectoralis Major, Anterior Deltoid, Triceps Brachii Mechanics: Compound Force: Push Starting position Lock your feet under the leg brace of a declined bench and lie on your back. Using a grip that is a little wider than shoulder width, dismount the barbell from the rack. </item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+        <item>Exercise details Target muscle: Sternal (Lower) Pectoralis Major Synergists: Clavicular (Upper) Pectoralis Major, Triceps Brachii, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position With a dumbbell in each hand, sit on the end of a declined bench and rest the dumbbells on your knees.</item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+    </string-array>
+    <string-array name="leg_youtube">
+        <item>https://www.youtube.com/watch?v=DbFgADa2PL8</item>
+        <item>https://www.youtube.com/watch?v=rT7DgCr-3pg</item>
+        <item>https://www.youtube.com/watch?v=LfyQBUKR8SE</item>
+        <item>https://www.youtube.com/watch?v=hChjZQhX1Ls&amp;t=9s</item>
+        <item>https://www.youtube.com/watch?v=OQkxOqFCFWo</item>
+        <item>https://www.youtube.com/watch?v=eozdVDA78K0</item>
+    </string-array>
+
+    <string-array name="ab">
+        <item>Incline barbell bench press</item>
+        <item>Flat barbell bench press</item>
+        <item>Decline barbell bench press</item>
+        <item>Incline dumbbell bench press</item>
+        <item>Decline dumbbell bench press</item>
+        <item>Dumbbell chest fly</item>
+    </string-array>
+    <string-array name="ab_des">
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Triceps Brachii Dynamic stabilizer: Biceps Brachii (Short Head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a bench inclined at 45 degrees. Spread your legs, bring your feet back, and place them firmly on the ground.</item>
+        <item>Exercise details Target muscle: Triceps Brachii Synergists: Sternal (Lower) Pectoralis Major, Clavicular (Upper) Pectoralis Major, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a flat bench, spread your legs, and plant your feet flat on the floor for stability. </item>
+        <item>Exercise details Target muscle: Sternal (lower) Pectoralis Major Synergists: Clavicular (upper) Pectoralis Major, Anterior Deltoid, Triceps Brachii Mechanics: Compound Force: Push Starting position Lock your feet under the leg brace of a declined bench and lie on your back. Using a grip that is a little wider than shoulder width, dismount the barbell from the rack. </item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+        <item>Exercise details Target muscle: Sternal (Lower) Pectoralis Major Synergists: Clavicular (Upper) Pectoralis Major, Triceps Brachii, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position With a dumbbell in each hand, sit on the end of a declined bench and rest the dumbbells on your knees.</item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+    </string-array>
+    <string-array name="ab_youtube">
+        <item>https://www.youtube.com/watch?v=DbFgADa2PL8</item>
+        <item>https://www.youtube.com/watch?v=rT7DgCr-3pg</item>
+        <item>https://www.youtube.com/watch?v=LfyQBUKR8SE</item>
+        <item>https://www.youtube.com/watch?v=hChjZQhX1Ls&amp;t=9s</item>
+        <item>https://www.youtube.com/watch?v=OQkxOqFCFWo</item>
+        <item>https://www.youtube.com/watch?v=eozdVDA78K0</item>
+    </string-array>
+
+    <string-array name="back">
+        <item>Incline barbell bench press</item>
+        <item>Flat barbell bench press</item>
+        <item>Decline barbell bench press</item>
+        <item>Incline dumbbell bench press</item>
+        <item>Decline dumbbell bench press</item>
+        <item>Dumbbell chest fly</item>
+    </string-array>
+    <string-array name="back_des">
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Triceps Brachii Dynamic stabilizer: Biceps Brachii (Short Head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a bench inclined at 45 degrees. Spread your legs, bring your feet back, and place them firmly on the ground.</item>
+        <item>Exercise details Target muscle: Triceps Brachii Synergists: Sternal (Lower) Pectoralis Major, Clavicular (Upper) Pectoralis Major, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a flat bench, spread your legs, and plant your feet flat on the floor for stability. </item>
+        <item>Exercise details Target muscle: Sternal (lower) Pectoralis Major Synergists: Clavicular (upper) Pectoralis Major, Anterior Deltoid, Triceps Brachii Mechanics: Compound Force: Push Starting position Lock your feet under the leg brace of a declined bench and lie on your back. Using a grip that is a little wider than shoulder width, dismount the barbell from the rack. </item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+        <item>Exercise details Target muscle: Sternal (Lower) Pectoralis Major Synergists: Clavicular (Upper) Pectoralis Major, Triceps Brachii, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position With a dumbbell in each hand, sit on the end of a declined bench and rest the dumbbells on your knees.</item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+    </string-array>
+    <string-array name="back_youtube">
+        <item>https://www.youtube.com/watch?v=DbFgADa2PL8</item>
+        <item>https://www.youtube.com/watch?v=rT7DgCr-3pg</item>
+        <item>https://www.youtube.com/watch?v=LfyQBUKR8SE</item>
+        <item>https://www.youtube.com/watch?v=hChjZQhX1Ls&amp;t=9s</item>
+        <item>https://www.youtube.com/watch?v=OQkxOqFCFWo</item>
+        <item>https://www.youtube.com/watch?v=eozdVDA78K0</item>
+    </string-array>
+
+    <string-array name="shoulders">
+        <item>Incline barbell bench press</item>
+        <item>Flat barbell bench press</item>
+        <item>Decline barbell bench press</item>
+        <item>Incline dumbbell bench press</item>
+        <item>Decline dumbbell bench press</item>
+        <item>Dumbbell chest fly</item>
+    </string-array>
+    <string-array name="shoulders_des">
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Triceps Brachii Dynamic stabilizer: Biceps Brachii (Short Head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a bench inclined at 45 degrees. Spread your legs, bring your feet back, and place them firmly on the ground.</item>
+        <item>Exercise details Target muscle: Triceps Brachii Synergists: Sternal (Lower) Pectoralis Major, Clavicular (Upper) Pectoralis Major, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position Lie supine (on your back) on a flat bench, spread your legs, and plant your feet flat on the floor for stability. </item>
+        <item>Exercise details Target muscle: Sternal (lower) Pectoralis Major Synergists: Clavicular (upper) Pectoralis Major, Anterior Deltoid, Triceps Brachii Mechanics: Compound Force: Push Starting position Lock your feet under the leg brace of a declined bench and lie on your back. Using a grip that is a little wider than shoulder width, dismount the barbell from the rack. </item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+        <item>Exercise details Target muscle: Sternal (Lower) Pectoralis Major Synergists: Clavicular (Upper) Pectoralis Major, Triceps Brachii, Anterior Deltoid Dynamic stabilizer: Biceps Brachii (short head only) Mechanics: Compound Force: Push Starting position With a dumbbell in each hand, sit on the end of a declined bench and rest the dumbbells on your knees.</item>
+        <item>Exercise details Target muscle: Clavicular (Upper) Pectoralis Major Synergists: Anterior Deltoid, Biceps Brachii (short head only) Mechanics: Isolation Force: Push Starting position Holding a dumbbell in each hand, sit on a bench inclined at 45 degrees and rest each dumbbell on a knee.</item>
+    </string-array>
+    <string-array name="shoulders_youtube">
+        <item>https://www.youtube.com/watch?v=DbFgADa2PL8</item>
+        <item>https://www.youtube.com/watch?v=rT7DgCr-3pg</item>
+        <item>https://www.youtube.com/watch?v=LfyQBUKR8SE</item>
+        <item>https://www.youtube.com/watch?v=hChjZQhX1Ls&amp;t=9s</item>
+        <item>https://www.youtube.com/watch?v=OQkxOqFCFWo</item>
+        <item>https://www.youtube.com/watch?v=eozdVDA78K0</item>
+    </string-array>
+
+
+</resources>

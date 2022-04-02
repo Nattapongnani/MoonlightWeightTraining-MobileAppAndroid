@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ProgramDetails"
+    android:orientation="vertical"
+    android:background="@color/dark_blue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/mProgramName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="Program Name"
+            android:textColor="@color/white"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            tools:ignore="MissingConstraints" />
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/rule"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        app:srcCompat="@drawable/ic_baseline_horizontal_rule_long"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create Date"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:layout_marginRight="30dp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/mCreateDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="22-22-2022 22:00"
+            android:textSize="18dp"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Workouts"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:layout_marginRight="30dp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/mWorkouts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:textSize="18dp"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Training Volume"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:layout_marginRight="30dp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/mTrainingVolume"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="0.0"
+            android:textSize="18dp"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="kg"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            tools:ignore="MissingConstraints" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Last Performed"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/mLastPerformed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:textSize="18dp"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Session Count"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:layout_marginRight="30dp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/mSessionCount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="18dp"
+            android:textAlignment="textEnd"
+            android:textColor="@color/white"
+            tools:ignore="MissingConstraints" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+        <Button
+            android:id="@+id/mPerformedBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FFC107"
+            android:gravity="right"
+            android:onClick="performedClick"
+            android:text="PERFORMED"
+            android:textSize="20dp"
+            android:textColor="@color/dark_blue"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:visibility="visible"
+            tools:ignore="RtlCompat" />
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp"
+        android:id="@+id/mListExercise" />
+
+</LinearLayout>

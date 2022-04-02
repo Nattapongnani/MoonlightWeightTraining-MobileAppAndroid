@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.moonlight">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MOONLIGHT">
+
+        <activity
+            android:name=".NewProgram"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".WorkoutLogs"
+            android:exported="false" />
+
+
+        <activity
+            android:name=".Des_shouldersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Des_backActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Des_abActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Des_letsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Des_chestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Weight_legActivity"
+            android:exported="false"
+            android:label="Legs" />
+        <activity
+            android:name=".Weight_shouldersActivity"
+            android:exported="false"
+            android:label="Shoulders" />
+        <activity
+            android:name=".Weight_backActivity"
+            android:exported="false"
+            android:label="Back" />
+        <activity
+            android:name=".Weight_abActivity"
+            android:exported="false"
+            android:label="Six pack" />
+        <activity
+            android:name=".Weight_chestActivity"
+            android:exported="false"
+            android:label="Chest" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="Program"
+            tools:ignore="DuplicateActivity" />
+        <activity
+            android:name=".WeightActivity"
+            android:exported="false"
+            android:label="Weight" />
+        <activity
+            android:name=".StatsActivity"
+            android:exported="false"
+            android:label="Stats"
+            tools:ignore="DuplicateActivity" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.MOONLIGHT1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+    </application>
+
+</manifest>
